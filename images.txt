@@ -16,3 +16,6 @@ win7/docker-shadowsocks
 adolfintel/speedtest
 doubebly/doube-itv
 deluan/navidrome
+diygod/rsshub
+lobehub/lobe-chat
+youshandefeiyang/allinone
